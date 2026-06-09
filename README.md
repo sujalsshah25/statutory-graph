@@ -9,4 +9,5 @@ A directed graph in C mapping cross-references across Companies Act 2013, SEBI A
 - Wrote Makefiles for both projects. 'make' command works.
 - Created .gitignore to exclude compiled binaries.
 - First commit pushed to GitHub. Repository is live.
+
 Day 1: progress log entry
